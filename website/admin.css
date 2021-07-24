@@ -1,0 +1,33 @@
+body{   
+    background-image: url("bgl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.data{
+    text-align: center;
+    margin:20%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    width: 50%;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Sora", sans-serif;
+    color:#e8f3f1;
+    padding-bottom: 3%;
+    padding-top: 4%;
+    
+      text-shadow: 2px 2px 4px #000000;
+
+
+}
+.user{
+    
+    background-color:#829fd3;
+    padding-top:2%;
+    font-family: "Sora", sans-serif;
+    font-size: 19px;
+}

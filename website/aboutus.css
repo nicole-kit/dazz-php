@@ -1,0 +1,101 @@
+
+/*----------------------style------------------------------------------*/
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+	  background-image: url("bgl.jpg");
+  background-repeat: repeat-y;
+
+}
+
+
+.title {
+    width: 50%;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    padding-top: 6%;
+    font-size: 70px;
+    font-family: "Sora", sans-serif;
+    color:#e8f3f1;
+    padding-bottom: 6%;
+    
+      text-shadow: 2px 2px 4px #000000;
+}
+
+
+.btn1 {
+    font-family: "Sora", sans-serif;
+    padding: 28px;
+    font-size: 25px;
+    border-radius: 35px;
+    background:#4b0a19;
+    color: white;
+
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+
+#faqbtn {
+    display: none;
+}
+
+/*HOVER ON BUTTON*/
+.hvr-grow {
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    transition-duration: 0.3s;
+    transition-property: transform;
+  
+}
+
+.hvr-grow:hover,
+.hvr-grow:focus,
+.hvr-grow:active {
+    transform: scale(1.1);
+}
+.text {
+    width: 80%;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    margin-bottom: 2%;
+    margin-top: 1%;
+    padding-top:0px;
+    line-height: 1.5;
+    font-size: 40px;
+    font-family: "Sora", sans-serif;
+    color: #e8f3f1;
+    text-shadow: 2px 2px 20px rgba(0, 0, 0, 0.2);
+    text-shadow: 2px 2px 4px #000000;
+    padding-top: 2%;
+}
+.text1 {
+    width: 80%;
+    margin: auto;
+    position: relative;
+    text-align: center;
+
+
+
+    padding-bottom: 10px;
+    line-height: 1.5;
+    font-size: 28px;
+    font-family: "Sora", sans-serif;
+    color: #e8f3f1;
+    text-shadow: 2px 2px 20px rgba(0, 0, 0, 0.2);
+    text-shadow: 2px 2px 4px #000000;
+
+}
+#btn2{
+margin-left: 59vh;
+
+}
+/*-------------------------------sections--------------------------- */
+
+/*--------------------------top navbar--------------------------------*/
